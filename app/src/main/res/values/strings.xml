@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">myFigma</string>
+    <string name="tvDemo">DEMO</string>
+    <string name="etEmail">E-mail</string>
+    <string name="etPassword">Password</string>
+    <string name="btnEnter">Enter</string>
+    <string name="tvWelcome">WELCOME</string>
+</resources>
